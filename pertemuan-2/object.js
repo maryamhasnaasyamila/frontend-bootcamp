@@ -10,4 +10,4 @@ console.log(user["jurusan"]);
 // looping data object
 for (const kunci in user) {
   console.log(`Key: ${kunci} Value: ${user[kunci]}`);
-};
+}
