@@ -11,24 +11,24 @@ let users = [
     major: "Informatics",
   },
   {
-    name: "Amel",
-    age: 20,
-    major: "Management",
+    name: "Alifah",
+    age: 19,
+    major: "Sistem Informasi",
   },
   {
-    name: "Cindy",
-    age: 21,
+    name: "Hasna",
+    age: 19,
     major: "Informatics",
   },
   {
-    name: "Aisyah",
-    age: 20,
+    name: "Deva",
+    age: 19,
     major: "Informatics",
   },
   {
-    name: "Salim",
-    age: 22,
-    major: "Law",
+    name: "Yuyun",
+    age: 19,
+    major: "Sistem Informasi",
   },
 ];
 
