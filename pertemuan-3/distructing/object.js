@@ -1,7 +1,7 @@
 // buat objek
 const user = {
     name: "Hasna",
-    age: 22,
+    age: 19,
     major: "Informatika",
 
 };
